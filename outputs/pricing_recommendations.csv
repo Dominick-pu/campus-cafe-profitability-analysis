@@ -1,0 +1,7 @@
+product_id,product_name,selected_forecast_model,scenario_model,baseline_price,estimated_price_elasticity,revenue_optimal_tested_price,gross_profit_optimal_tested_price,conservative_recommended_price,recommendation_status,baseline_predicted_gross_profit,recommended_predicted_gross_profit,baseline_predicted_revenue,recommended_predicted_revenue
+LAT,Latte,Ridge Regression,Log-log Linear Regression (associational),4.5,-1.682,3.96,3.96,3.96,Model-supported scenario (not causal),32523.57,33187.65,47985.59,52359.81
+AME,Americano,Ridge Regression,Log-log Linear Regression (associational),3.2,-1.121,2.82,3.58,3.58,Model-supported scenario (not causal),18180.71,18569.68,24240.95,23913.47
+CAP,Cappuccino,Linear Regression,Log-log Linear Regression (associational),4.25,-1.835,3.74,3.74,3.74,Model-supported scenario (not causal),23390.67,24463.01,33698.42,37496.58
+MOC,Mocha,Linear Regression,Log-log Linear Regression (associational),5.1,-1.846,4.49,4.49,4.49,Model-supported scenario (not causal),20168.75,20870.4,30704.67,34200.03
+CRO,Croissant,Linear Regression,Log-log Linear Regression (associational),3.65,-1.452,3.21,4.09,3.65,Hold baseline: holdout forecast did not beat naive benchmark and positive R2,10647.3,10647.3,17272.28,17272.28
+MUF,Blueberry Muffin,Random Forest,Log-log Linear Regression (associational),3.25,-1.021,2.86,3.64,3.64,Model-supported scenario (not causal),7516.08,7881.61,11103.3,11076.85

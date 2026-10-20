@@ -1,0 +1,7 @@
+product_id,product_name,selected_forecast_model,train_days,validation_days,test_days,validation_mae,test_mae_units_per_day,test_r2,naive_test_mae,estimated_price_elasticity_loglog_ols,scenario_eligible
+LAT,Latte,Ridge Regression,108,36,36,6.485,8.034,0.705,14.617,-1.682,True
+AME,Americano,Ridge Regression,108,36,36,6.984,7.632,0.294,8.36,-1.121,True
+CAP,Cappuccino,Linear Regression,108,36,36,4.516,4.545,0.696,9.338,-1.835,True
+MOC,Mocha,Linear Regression,108,36,36,6.426,4.915,0.562,7.821,-1.846,True
+CRO,Croissant,Linear Regression,108,36,36,3.98,5.405,-0.054,5.815,-1.452,False
+MUF,Blueberry Muffin,Random Forest,108,36,36,3.636,3.996,0.185,4.451,-1.021,True

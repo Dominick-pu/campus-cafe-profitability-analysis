@@ -1,0 +1,7 @@
+product_name,regular_price,promotional_price_5pct_off,discounted_days_fraction,eligible_and_within_observed_range,regular_predicted_gross_profit,promotion_predicted_gross_profit,incremental_predicted_gross_profit,promotional_scenario_selected
+Latte,3.96,3.76,0.2,True,33187.65,34544.99,1357.33,True
+Americano,3.58,3.4,0.2,True,18569.68,18980.95,411.27,True
+Cappuccino,3.74,3.55,0.2,True,24463.01,25350.72,887.71,True
+Mocha,4.49,4.27,0.2,True,20870.4,21826.1,955.71,True
+Croissant,3.65,3.47,0.2,False,10647.3,,,False
+Blueberry Muffin,3.64,3.46,0.2,True,7881.61,8094.05,212.44,True

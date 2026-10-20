@@ -1,0 +1,3 @@
+category,opening_inventory_value,purchases_value,closing_inventory_value,assumed_shrinkage_value,sales_based_cogs,inventory_usage_cost,average_inventory_value,inventory_turnover,non_sales_inventory_usage,unexplained_gap_after_assumed_shrinkage
+Beverages,3032.94,45819.26,3130.63,227.47,45494.1,45721.57000000001,3081.785,14.83606740898538,227.47000000000844,8.44124770082999e-12
+Bakery,355.47,10728.27,366.27,53.32,10664.15,10717.47,360.87,29.69897747111148,53.31999999999971,-2.913225216616411e-13

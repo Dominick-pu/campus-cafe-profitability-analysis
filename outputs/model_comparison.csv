@@ -1,0 +1,19 @@
+product_id,product_name,candidate_model,validation_days,validation_mae_units_per_day,validation_r2
+LAT,Latte,Linear Regression,36,6.612,0.696
+LAT,Latte,Ridge Regression,36,6.485,0.704
+LAT,Latte,Random Forest,36,7.724,0.583
+AME,Americano,Linear Regression,36,6.996,0.055
+AME,Americano,Ridge Regression,36,6.984,0.06
+AME,Americano,Random Forest,36,7.636,-0.107
+CAP,Cappuccino,Linear Regression,36,4.516,0.761
+CAP,Cappuccino,Ridge Regression,36,4.523,0.76
+CAP,Cappuccino,Random Forest,36,5.59,0.58
+MOC,Mocha,Linear Regression,36,6.426,0.548
+MOC,Mocha,Ridge Regression,36,6.43,0.546
+MOC,Mocha,Random Forest,36,6.953,0.414
+CRO,Croissant,Linear Regression,36,3.98,0.377
+CRO,Croissant,Ridge Regression,36,3.983,0.378
+CRO,Croissant,Random Forest,36,5.425,0.045
+MUF,Blueberry Muffin,Linear Regression,36,3.859,0.134
+MUF,Blueberry Muffin,Ridge Regression,36,3.857,0.135
+MUF,Blueberry Muffin,Random Forest,36,3.636,0.184
